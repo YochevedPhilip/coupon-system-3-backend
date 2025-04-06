@@ -24,7 +24,7 @@ This project represents an earlier stage in my backend development journey.
 Since then, I have shifted my focus toward understanding how backend systems work under the hood, by building projects from scratch without frameworks.
 
 You can see my more recent work here:  
-[Seat Shade App – A Java backend project built from scratch](https://github.com/YochevedPhilip/seat-shade-app)
+[Seat Shade App - A Java backend project built from scratch](https://github.com/YochevedPhilip/seat-shade-app)
 
 ---
 
